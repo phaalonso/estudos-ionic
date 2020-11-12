@@ -1,0 +1,3 @@
+[submodule "tarefa"]
+	path = tarefa
+	url = https://github.com/phaalonso/ionic-task-list
