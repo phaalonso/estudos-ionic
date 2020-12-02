@@ -4,3 +4,6 @@
 [submodule "ionic-request"]
 	path = ionic-request
 	url = https://github.com/phaalonso/ionic-request
+[submodule "ionic-gerenciador-senhas"]
+	path = ionic-gerenciador-senhas
+	url = https://github.com/phaalonso/ionic-gerenciador-senhas
