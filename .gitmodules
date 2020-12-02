@@ -1,3 +1,6 @@
 [submodule "tarefa"]
 	path = tarefa
 	url = https://github.com/phaalonso/ionic-task-list
+[submodule "ionic-request"]
+	path = ionic-request
+	url = https://github.com/phaalonso/ionic-request
