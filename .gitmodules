@@ -13,3 +13,6 @@
 [submodule "login"]
 	path = login
 	url = https://github.com/phaalonso/ionic-login
+[submodule "trabalho-critica"]
+	path = trabalho-critica
+	url = git@github.com:phaalonso/trabalho-critica.git
