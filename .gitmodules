@@ -16,3 +16,6 @@
 [submodule "trabalho-critica"]
 	path = trabalho-critica
 	url = git@github.com:phaalonso/trabalho-critica.git
+[submodule "app-critica"]
+	path = app-critica
+	url = https://github.com/phaalonso/App-Feedback
