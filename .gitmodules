@@ -7,9 +7,6 @@
 [submodule "ionic-gerenciador-senhas"]
 	path = ionic-gerenciador-senhas
 	url = https://github.com/phaalonso/ionic-gerenciador-senhas
-[submodule "form"]
-	path = form
-	url = https://github.com/phaalonso/ionic-form-validation/commits/master
 [submodule "login"]
 	path = login
 	url = https://github.com/phaalonso/ionic-login
